@@ -1,21 +1,21 @@
-[submodule "pack/pmartella/start/vim-airline"]
-	path = pack/pmartella/start/vim-airline
+[submodule "pack/dmartella/start/vim-airline"]
+	path = pack/dmartella/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
-[submodule "pack/pmartella/start/nerdtree"]
-	path = pack/pmartella/start/nerdtree
+[submodule "pack/dmartella/start/nerdtree"]
+	path = pack/dmartella/start/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
-[submodule "pack/pmartella/start/vim-fugitive"]
-	path = pack/pmartella/start/vim-fugitive
+[submodule "pack/dmartella/start/vim-fugitive"]
+	path = pack/dmartella/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
-[submodule "pack/pmartella/start/vim-lastplace"]
-	path = pack/pmartella/start/vim-lastplace
+[submodule "pack/dmartella/start/vim-lastplace"]
+	path = pack/dmartella/start/vim-lastplace
 	url = https://github.com/dietsche/vim-lastplace.git
-[submodule "pack/pmartella/start/vim-polyglot"]
-	path = pack/pmartella/start/vim-polyglot
+[submodule "pack/dmartella/start/vim-polyglot"]
+	path = pack/dmartella/start/vim-polyglot
 	url = https://github.com/sheerun/vim-polyglot.git
-[submodule "pack/pmartella/start/vim-signify"]
-	path = pack/pmartella/start/vim-signify
+[submodule "pack/dmartella/start/vim-signify"]
+	path = pack/dmartella/start/vim-signify
 	url = https://github.com/mhinz/vim-signify.git
-[submodule "pack/pmartella/start/ale"]
-	path = pack/pmartella/start/ale
+[submodule "pack/dmartella/start/ale"]
+	path = pack/dmartella/start/ale
 	url = https://github.com/w0rp/ale.git
