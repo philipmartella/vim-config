@@ -28,14 +28,14 @@ hi ColorColumn              ctermbg=52
 hi Directory	              ctermfg=12
 hi Folded	                  cterm=none ctermbg=none ctermfg=8 guibg=grey30 guifg=gold
 hi FoldColumn               cterm=none ctermbg=none ctermfg=8 guibg=grey30 guifg=tan
-hi IncSearch                cterm=bold ctermfg=17 ctermbg=10 guifg=slategrey guibg=khaki
+hi IncSearch                cterm=bold ctermfg=17 ctermbg=11 guifg=slategrey guibg=khaki
 hi LineNr                   ctermbg=17 ctermfg=100
 hi ModeMsg                  cterm=none ctermfg=brown guifg=goldenrod
 hi MoreMsg                  ctermfg=darkgreen guifg=SeaGreen
 hi ErrorMsg	                cterm=bold ctermfg=7 ctermbg=1
 hi NonText                  cterm=bold ctermfg=21 guifg=LightBlue guibg=grey30
 hi Question                 ctermfg=2 guifg=springgreen
-hi Search                   cterm=bold ctermfg=17 ctermbg=11 guibg=peru guifg=wheat
+hi Search                   cterm=bold ctermfg=17 ctermbg=10 guibg=peru guifg=wheat
 hi SpecialKey	              ctermfg=2 guifg=yellowgreen
 hi StatusLine               cterm=bold,reverse ctermfg=91 ctermbg=Gray gui=none guibg=#c2bfa5 guifg=black
 hi StatusLineNC             cterm=reverse ctermfg=53 ctermbg=Gray gui=none guibg=#c2bfa5 guifg=grey50
