@@ -22,3 +22,6 @@
 [submodule "pack/dmartella/start/vim-hugo-helper"]
 	path = pack/dmartella/start/vim-hugo-helper
 	url = https://github.com/robertbasic/vim-hugo-helper.git
+[submodule "pack/dmartella/start/openhab-vim"]
+	path = pack/dmartella/start/openhab-vim
+	url = https://github.com/cyberkov/openhab-vim.git
