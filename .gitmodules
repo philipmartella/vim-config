@@ -19,3 +19,6 @@
 [submodule "pack/dmartella/start/ale"]
 	path = pack/dmartella/start/ale
 	url = https://github.com/w0rp/ale.git
+[submodule "pack/dmartella/start/vim-hugo-helper"]
+	path = pack/dmartella/start/vim-hugo-helper
+	url = https://github.com/robertbasic/vim-hugo-helper.git
