@@ -67,7 +67,7 @@ set formatoptions+=nj
 "set signcolumn="yes"
 
 set tabstop=2
-set shiftwidth=2
+set shiftwidth=0
 set smartindent
 
 set number
