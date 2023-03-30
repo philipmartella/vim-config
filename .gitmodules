@@ -25,3 +25,6 @@
 [submodule "pack/dmartella/start/openhab-vim"]
 	path = pack/dmartella/start/openhab-vim
 	url = https://github.com/cyberkov/openhab-vim.git
+[submodule "pack/dmartella/start/copilot.vim"]
+	path = pack/dmartella/start/copilot.vim
+	url = https://github.com/github/copilot.vim.git
