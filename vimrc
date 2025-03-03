@@ -45,12 +45,12 @@ set lazyredraw
 " Set locations for swap storage
 set directory=~/.swp,/tmp
 
-" Enable mouse use in all modes
-set mouse=a
-
 " Set this to the name of your terminal that supports mouse codes.
 " Must be one of: xterm, xterm2, netterm, dec, jsbterm, pterm
 set ttymouse=xterm2
+
+" Enable mouse use in all modes
+set mouse=-a
 
 " toggle colored right border after 80 chars
 set colorcolumn=81
